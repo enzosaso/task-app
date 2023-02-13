@@ -1,9 +1,11 @@
 # React Task App
 
 - Based on Vite
+- React 18
 - React Hooks
+- Custom Hooks
 - LocalStorage
-- Bootstrap
+- Bootstrap 5
 
 ## Live demo
 
