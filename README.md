@@ -5,6 +5,10 @@
 - LocalStorage
 - Bootstrap
 
+## Live demo
+
+[https://enzosaso.github.io/task-app/](https://enzosaso.github.io/task-app/)
+
 ![](./docs/React-App.png)
 
 ## Development
